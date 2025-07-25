@@ -1,6 +1,6 @@
 import React from 'react';
 import { Icon } from './Icon';
-import WatermelonIcon from './WatermelonIcon';
+import WatermelonIcon from './WatermeloniconatermelonIcon';
 
 // Header component with navigation
 const Header = ({ setView, cartItemCount, isAdmin }) => (
