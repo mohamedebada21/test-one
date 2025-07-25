@@ -7,9 +7,12 @@ import { getFirestore } from 'firebase/firestore';
 const firebaseConfig = typeof __firebase_config !== 'undefined' 
     ? JSON.parse(__firebase_config) 
     : { 
-        apiKey: "YOUR_API_KEY", 
-        authDomain: "YOUR_AUTH_DOMAIN", 
-        projectId: "YOUR_PROJECT_ID",
+        apiKey: "AIzaSyCfJZyqF0q5EbGCZZ4DG_OdDtr-cjpZ2GI",
+  authDomain: "hayah-halal.firebaseapp.com",
+  projectId: "hayah-halal",
+  storageBucket: "hayah-halal.firebasestorage.app",
+  messagingSenderId: "1009148279797",
+  appId: "1:1009148279797:web:da77c7d28a9b625fc3febc"
         // ... other config properties
       };
 
